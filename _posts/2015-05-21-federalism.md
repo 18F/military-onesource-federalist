@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Federalism
 layout: template/page
 permalink: /articles/federalism/
