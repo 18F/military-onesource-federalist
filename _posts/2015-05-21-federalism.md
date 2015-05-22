@@ -2,7 +2,7 @@
 published: false
 title: Federalism
 layout: template/page
-permalink: /articles/federalism
+permalink: /articles/federalism/
 ---
 
 ## A New Post
